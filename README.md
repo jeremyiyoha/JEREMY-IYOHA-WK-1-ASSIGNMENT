@@ -8,8 +8,9 @@ The designs are in in the `/utils/design' folder which contains a fig file that 
 
 You will find all the required assets(images and icons) in the `/utils/assets` folder. The assets are already optimized.
 
-All code should be written in the `/src` folder.
+Get colors, fonts etc from the `utils/design/style-guide` file or by opening the fig file in `/utils/figma`
 
+All code should be written in the `/src` folder.
 
 Your users should be able to: 
 
